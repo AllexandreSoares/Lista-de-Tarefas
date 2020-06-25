@@ -5,10 +5,10 @@ import ListItem from './src/ListItem';
 export default function App(){
  
       const tarefas =[
-          {id: '1', tarefa: 'Comprar Doritos'},
-          {id: '2', tarefa: 'Estudar React Native'},
-          {id: '3', tarefa: 'Estudar JavaScript'},
-          {id: '4', tarefa: 'Se Inscrever no Canal'}
+          {id: '1', tarefa: 'Fazer Compras'},
+          {id: '2', tarefa: 'Alimentar os cachorros'},
+          {id: '3', tarefa: 'Estudar programação'},
+          {id: '4', tarefa: 'Fazer 2 horas de leitura'}
       ];
  
  
